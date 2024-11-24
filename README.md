@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rsuvamdora22101@outlook.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/17GohNTlhOUMcyt7i4D0VA7BtFcEoyM9R/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1tq6Fyu8RkXCr-4lUo7IaVH-e14JsyyU_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
