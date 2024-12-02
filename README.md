@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm R Suvam Dora</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=1200&height=100&lines=Welcome+🤗+to+my+GitHub+Profile!;Hi+%F0%9F%91%8B%2C+I'm+R+Suvam+Dora;A+passionate+Full-Stack+Developer+from+India;Always+learning+%26+building+awesome+stuff!">
+</p>
 
 - 🔭 I’m currently working on [Video-Call-and-Chat-Application](https://github.com/rsuvamdora22/Video-Call-and-Chat-Application.git)
 
